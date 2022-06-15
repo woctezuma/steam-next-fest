@@ -82,5 +82,5 @@ python run_ASF_IPC.py
 [pyup]: <https://pyup.io/repos/github/woctezuma/steam-next-fest/>
 [dependency-image]: <https://pyup.io/repos/github/woctezuma/steam-next-fest/shield.svg>
 [python3-image]: <https://pyup.io/repos/github/woctezuma/steam-next-fest/python-3-shield.svg>
-[codacy]: <https://www.codacy.com/app/woctezuma/steam-next-fest>
+[codacy]: <https://app.codacy.com/gh/woctezuma/steam-next-fest/>
 [codacy-image]: <https://api.codacy.com/project/badge/Grade/7a64d60f823a4c8bb38217055abf3cb1>
