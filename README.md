@@ -6,6 +6,8 @@
 
 This repository contains Python code to play demos for the [Steam Next Fest][steam-next-fest] in June 2022.
 
+![Badge ranking at SteamDB][wiki-cover]
+
 ## Requirements
 
 -   Install the latest version of [Python 3.X][python] (at least version 3.10).
@@ -79,6 +81,7 @@ python run_ASF_IPC.py
 [steam-python-package]: <https://github.com/ValvePython/steam>
 [steamctl-python]: <https://github.com/ValvePython/steamctl>
 
+[wiki-cover]: <https://github.com/woctezuma/steam-next-fest/wiki/img/level_1050_with_header.png>
 [pyup]: <https://pyup.io/repos/github/woctezuma/steam-next-fest/>
 [dependency-image]: <https://pyup.io/repos/github/woctezuma/steam-next-fest/shield.svg>
 [python3-image]: <https://pyup.io/repos/github/woctezuma/steam-next-fest/python-3-shield.svg>
