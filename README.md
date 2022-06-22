@@ -24,7 +24,7 @@ pip install -r requirements.txt
 For ASF, make sure that [IPC][wiki-ASF-IPC] is toggled ON.
 This is the default value.
 
-For SWP, compile the software and edit the url value from `0.0.0.0:8181` to `127.0.0.1:8181` in `bin/Release/settings.json`:
+For SWP, compile the software and edit the url from `0.0.0.0` to `127.0.0.1` in `bin/Release/settings.json`:
 ```json
 {
     "Location": "ws://127.0.0.1:8181",
