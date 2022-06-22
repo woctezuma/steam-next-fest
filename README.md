@@ -25,7 +25,7 @@ For ASF, make sure that [IPC][wiki-ASF-IPC] is toggled ON.
 This is the default value.
 
 For SWP, compile the software and edit the url value:
-- from `0.0.0.0:8181` to `localhost:8181`,
+- from `0.0.0.0:8181` to `127.0.0.1:8181`,
 - in `SteamWebPipes/SteamWebPipes/bin/Release/settings.json`.
 
 ## Usage
