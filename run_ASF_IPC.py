@@ -1,9 +1,9 @@
-from src.demo_utils import play_demos
+from src.demo_utils import add_and_play_demos
 
 
 def main():
     app_ids = [1884590, 1905170]  # "Tinykin Demo" and "Hell Pie Demo"
-    play_demos(app_ids)
+    add_and_play_demos(app_ids)
 
     return
 
