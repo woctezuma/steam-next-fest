@@ -1,0 +1,87 @@
+{
+    "apps": {
+        "2059470": {
+            "_change_number": 15137679,
+            "_missing_token": false,
+            "_sha": "c3cb2e75b3965212e8f9e9854194f9e5ee6e213c",
+            "_size": 1550,
+            "appid": "2059470",
+            "common": {
+                "associations": {
+                    "0": {
+                        "name": "IntraMentalDev",
+                        "type": "developer"
+                    },
+                    "1": {
+                        "name": "Intramental Studios",
+                        "type": "publisher"
+                    }
+                },
+                "category": {
+                    "category_2": "1"
+                },
+                "clienticon": "abc6ddd426a3850cd0f8de4be62a67e3a7f37bf8",
+                "clienttga": "db2f9cd7d8c9936278a23fc49a40021442296682",
+                "exfgls": "1",
+                "gameid": "2059470",
+                "has_adult_content": "1",
+                "has_adult_content_violence": "1",
+                "header_image": {
+                    "english": "header.jpg"
+                },
+                "icon": "df26d71bfa5c689fe979c14beb1beb145da767b0",
+                "name": "Insectoid Descent Demo",
+                "osarch": "",
+                "osextended": "",
+                "oslist": "windows",
+                "parent": "1975350",
+                "primary_genre": "0",
+                "releasestate": "released",
+                "small_capsule": {
+                    "english": "capsule_231x87.jpg"
+                },
+                "steam_release_date": "1655319528",
+                "store_asset_mtime": "1655227497",
+                "supported_languages": {
+                    "english": {
+                        "full_audio": "true",
+                        "supported": "true"
+                    }
+                },
+                "type": "Demo"
+            },
+            "config": {
+                "installdir": "Insectoid Descent Demo",
+                "launch": {
+                    "0": {
+                        "config": {
+                            "oslist": "windows"
+                        },
+                        "executable": "Insectoid Descent.exe",
+                        "type": "default"
+                    }
+                }
+            },
+            "depots": {
+                "2059471": {
+                    "manifests": {
+                        "public": "5030638753772606516"
+                    },
+                    "maxsize": "209964633"
+                },
+                "branches": {
+                    "public": {
+                        "buildid": "8937759",
+                        "timeupdated": "1655251682"
+                    }
+                }
+            },
+            "extended": {
+                "demoofappid": "1975350",
+                "developer": "IntraMentalDev",
+                "publisher": "Intramental Studios"
+            }
+        }
+    },
+    "packages": {}
+}
