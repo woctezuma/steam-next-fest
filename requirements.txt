@@ -1,2 +1,4 @@
 ASF_IPC
+steam[client]
+steamctl
 websockets
